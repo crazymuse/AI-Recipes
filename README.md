@@ -1,5 +1,4 @@
 # My Projects
-
-<img align="left" width="600" height="200" src="https://www.python.org/python-.png">
+<img align="left" width="600" height="200" src="img/1_knowledge_graphs.jpeg">
 ## Understanding Knowledge Graphs
 
